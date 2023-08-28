@@ -1,2 +1,2 @@
 # gio-anime-game-files-3.2
-1
+cat ./filename.part_* > ./filename
