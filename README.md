@@ -1,4 +1,4 @@
-# Anime Game Offline
+# Anime Game Server
 
 This project is dedicated to saving **GIO docker Braindead** files.
 
